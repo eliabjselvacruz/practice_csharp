@@ -1,0 +1,8 @@
+C:\Users\eliab\Documents\repos\practice_csharp\Ouputs\bin\Debug\Ouputs.exe.config
+C:\Users\eliab\Documents\repos\practice_csharp\Ouputs\bin\Debug\Ouputs.exe
+C:\Users\eliab\Documents\repos\practice_csharp\Ouputs\bin\Debug\Ouputs.pdb
+C:\Users\eliab\Documents\repos\practice_csharp\Ouputs\obj\Debug\Ouputs.csproj.AssemblyReference.cache
+C:\Users\eliab\Documents\repos\practice_csharp\Ouputs\obj\Debug\Ouputs.csproj.SuggestedBindingRedirects.cache
+C:\Users\eliab\Documents\repos\practice_csharp\Ouputs\obj\Debug\Ouputs.csproj.CoreCompileInputs.cache
+C:\Users\eliab\Documents\repos\practice_csharp\Ouputs\obj\Debug\Ouputs.exe
+C:\Users\eliab\Documents\repos\practice_csharp\Ouputs\obj\Debug\Ouputs.pdb
